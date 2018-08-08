@@ -1,0 +1,6 @@
+{
+  "name": "lineoa",
+  "description": "Simple line bot creation using Python",
+  "repository": "https://github.com/Aditmadzs/lineoa.git",
+  "keywords": ["line", "bot", "python", "heroku"]
+}
